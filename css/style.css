@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#ffd500 ;
+}
+
+.container{
+    display: flex;
+}
+.clock{
+    background: url(/img/Eviosys_Logo.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    height: 100vh;
+
+    width: 50%;
+}
+.time{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin: 50% 0 ;
+}
+span{
+    font-size: 5rem;
+    color: #040c3a;
+}
+
+.news{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    width: 50%;
+    background-color: #040c3a;
+}
+
+iframe{
+    margin-top: 100px;
+}
