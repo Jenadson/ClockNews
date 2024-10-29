@@ -11,7 +11,7 @@ body{
     display: flex;
 }
 .clock{
-    background: url(img/Eviosys_Logo.png);
+    background: url(/img/Eviosys_Logo.png);
     background-size: 100%;
     background-repeat: no-repeat;
     
